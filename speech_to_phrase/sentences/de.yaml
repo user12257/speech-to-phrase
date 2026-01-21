@@ -38,7 +38,7 @@ data:
     domains:
       - "weather"
 
-  # # lights (area)
+  # lights (area)
   # - "turn (on|off) [the] lights [in here]"
   # - "turn [the] lights (on|off) [in here]"
   # - "turn (on|off) [all|the|all of the] {area} lights"
@@ -126,7 +126,7 @@ data:
   - "wie lange läuft (der|mein) Timer noch"
 
   # media
-  - "(pause|Weiter)"
+  - "(pause|Weiter|Stop)"
   - "nächster (Titel|Song)"
   # - sentences:
   #     - "(pause|resume) [the] {name}"
